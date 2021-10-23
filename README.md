@@ -52,3 +52,8 @@
 | [104-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/104-O) | the big O notations of the time complexity of the `Heap sort` algorithm |
 | [106-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/106-O) |  the big O notations of the time complexity of the `Bitonic sort` algorithm |
 | [107-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/107-O) | the big O notations of the time complexity of the `Quick sort` algorithm |
+
+
+## Author
+
+- [Dagem Tsehay](https://github.com/dagemtsehay1)
