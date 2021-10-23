@@ -13,6 +13,13 @@
 
 ## *File Descriptions*
 
+### *`h` files*
+
+| Files | Description |
+| ----------- | ----------- |
+| [sort.h](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/sort.h) | Header file containing definitions and prototypes for all types and functions written for the project. |
+| [deck.h](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/deck.h) | Header file containing definitions and prototypes for all types and functions written for the task `1000-sort_deck.c`. |
+
 ### *`C` files*
 
 | Files | Description |
@@ -31,7 +38,7 @@
 | [107-quick_sort_hoare.c](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/107-quick_sort_hoare.c) |  a function that sorts an array of integers in ascending order using the `Quick sort` algorithm |
 | [1000-sort_deck.c](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/1000-sort_deck.c) | a function that sorts a deck of cards. |
 
-### *Big O files*
+### *`Big O` files*
 
 | Files | Description |
 | ----------- | ----------- |
