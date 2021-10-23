@@ -13,6 +13,8 @@
 
 ## *File Descriptions*
 
+### *`C` files*
+
 | Files | Description |
 | ----------- | ----------- |
 | [0-bubble_sort.c](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/0-bubble_sort.c) | a function that sorts an array of integers in ascending order using the `Bubble sort` algorithm |
@@ -28,3 +30,18 @@
 | [106-bitonic_sort.c](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/106-bitonic_sort.c) | a function that sorts an array of integers in ascending order using the `Bitonic sort` algorithm |
 | [107-quick_sort_hoare.c](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/107-quick_sort_hoare.c) |  a function that sorts an array of integers in ascending order using the `Quick sort` algorithm |
 | [1000-sort_deck.c](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/1000-sort_deck.c) | a function that sorts a deck of cards. |
+
+### *Big O files*
+
+| Files | Description |
+| ----------- | ----------- |
+| [0-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/0-O) | the big O notations of the time complexity of the `Bubble sort` algorithm |
+| [1-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/1-O) | the big O notations of the time complexity of the `Insertion sort` algorithm |
+| [2-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/2-O) | the big O notations of the time complexity of the `Selection sort` algorithm |
+| [3-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/3-O) | the big O notations of the time complexity of the `Quick sort` algorithm |
+| [101-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/101-O) | the big O notations of the time complexity of the `Cocktail shaker sort` algorithm |
+| [102-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/102-O) | the big O notations of the time complexity of the `Counting sort` algorithm |
+| [103-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/103-O) | the big O notations of the time complexity of the `Merge sort` algorithm |
+| [104-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/104-O) | the big O notations of the time complexity of the `Heap sort` algorithm |
+| [106-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/106-O) |  the big O notations of the time complexity of the `Bitonic sort` algorithm |
+| [107-O](https://github.com/dagemtsehay1/sorting_algorithms/blob/main/107-O) | the big O notations of the time complexity of the `Quick sort` algorithm |
